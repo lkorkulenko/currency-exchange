@@ -1,4 +1,4 @@
-package com.spribe.currency_exchange;
+package com.spribe.currencyexchange;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
